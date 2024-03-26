@@ -17,6 +17,7 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=flat-square&logo=Redis)
 
 **Front-end**
 
