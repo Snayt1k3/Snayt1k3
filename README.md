@@ -10,12 +10,13 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastApi](https://img.shields.io/badge/FastApi-black?style=flat-square&logo=FastApi)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB)
 
 **Front-end**
 
