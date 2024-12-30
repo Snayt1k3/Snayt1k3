@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
 <div align="center">
-  <img src="kurumi.gif" height="270" width="450" align="right">
+  <img src="kurumi.gif" height="250" width="450" align="right">
 </div>
 
 
@@ -18,7 +18,7 @@
 <br>
 <h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
 <div align="center">
-  <img src="futaba-cofee.gif" align="right" height="250" width="400"/>
+  <img src="futaba-cofee.gif" align="right" height="230" width="400"/>
 </div>
 
 <div>
