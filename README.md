@@ -1,40 +1,64 @@
-<h1 align="center">Hi 👋, I'm Snayt1k3</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">𝓗𝓲! 👋 𝓘'𝓶 Snayt1k3</h1>
 
-## Technology stack
-
-<img align="right" alt="GIF" src="https://github.com/Snayt1k3/Snayt1k3/blob/master/code.gif?raw=true" width="500" height="320" />
-
-**Back-end**
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![FastApi](https://img.shields.io/badge/FastApi-black?style=flat-square&logo=FastApi)
-
-**Databases**
-
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=MySql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%232c3e50?style=flat-square&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-%232c3e50?style=flat-square&logo=Redis)
-
-**Front-end**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![bootstrap](https://img.shields.io/badge/-bootstrap-%231572B6?style=flat-square&logo=bootstrap&color=blueviolet&logoColor=white)
-![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=react)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<br>
+<h2 align="center">⭐ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ⭐</h2>
+<div align="center">
+  <img src="kurumi.gif" height="270" width="450" align="right">
+</div>
 
 
+<br>
+<div align="left">
+  <li><b>Name: Egor</b></li>
+  <li><b>Age: 22 y.o</b></li>
+  <li><b>Hobbies: Tech Stuff, Gaming</b></li>
+  <br><br><br><br>
+</div>
 
+<br>
+<h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
+<div align="center">
+  <img src="futaba-cofee.gif" align="right" height="250" width="400"/>
+</div>
+
+<div>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/go%20-%23323330.svg?&style=for-the-badge&logo=go"/>
+    <img src="https://img.shields.io/badge/postgresql%20-%23323330.svg?&style=for-the-badge&logo=postgresql"/>
+    <img src="https://img.shields.io/badge/oracle%20-%23323330.svg?&style=for-the-badge&logo=oracle"/>
+    <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker"/>
+    <img src="https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux"/>
+    <img src="https://img.shields.io/badge/fastapi%20-%23323330.svg?&style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/kafka%20-%23323330.svg?&style=for-the-badge&logo=apache-kafka"/>
+    <img src="https://img.shields.io/badge/celery%20-%23323330.svg?&style=for-the-badge&logo=celery"/>
+    <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"/>
+    <img src="https://img.shields.io/badge/redis%20-%23323330.svg?&style=for-the-badge&logo=redis"/>
+    <br><br><br><br><br>
+    ɪ ɴᴇᴠᴇʀ ꜱᴛᴜᴅɪᴇᴅ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴍᴀᴊᴏʀ, ʙᴜᴛ ɪ ʟɪᴋᴇ ᴄʀᴇᴀᴛɪɴɢ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴛʜɪɴɢꜱ. ᴛʜᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪ ʜᴀᴠᴇ ɪꜱ ɴᴏᴛ ᴍᴜᴄʜ, ʙᴜᴛ ᴀᴛ ʟᴇᴀꜱᴛ ᴇɴᴏᴜɢʜ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ꜰᴇᴡ ᴛʜɪɴɢꜱ. ɪ ᴊᴜꜱᴛ ʜᴏᴘᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛ ᴡɪʟʟ ʙᴇ ᴜꜱᴇꜰᴜʟ ꜰᴏʀ ᴇᴠᴇʀʏᴏɴᴇ. ᴄᴜʀʀᴇɴᴛʟʏ, ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ ɢᴏ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ɪᴛ.
+  </p>
+</div>
+
+<h2 align="center">☎️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ☎️</h2>
+<div align="left">
+  <img src="alya.gif" align="left" width="400" height="220"/>
+</div>
+
+<br>
+<p align="center">
+  ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜰʀᴏᴍ ᴛʜɪꜱ ʟɪꜱᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛ.<br>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Snayt1k3">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/linkedin.svg" alt="linkedin" width="51" height="51"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/574138541211254784">
+    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
+  </a>&nbsp;&nbsp;
+  <a href="snayt1k3@gmail.com">
+    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
+  </a>
+</div>
 
