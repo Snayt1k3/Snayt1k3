@@ -18,7 +18,7 @@
 <br>
 <h2 align="center">📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓰𝓭𝓮 📇</h2>
 <div align="center">
-  <img src="futaba-cofee.gif" align="right" height="230" width="400"/>
+  <img src="alya.gif" align="right" height="230" width="400"/>
 </div>
 
 <div>
