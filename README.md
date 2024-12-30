@@ -47,25 +47,4 @@
   </p>
 </div>
 
-<h2 align="center">☎️ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ☎️</h2>
-<div align="left">
-  <img src="alya.gif" align="left" width="400" height="220"/>
-</div>
-
-<br>
-<p align="center">
-  ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜰʀᴏᴍ ᴛʜɪꜱ ʟɪꜱᴛᴇᴅ ᴀᴄᴄᴏᴜɴᴛ.<br>
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/Snayt1k3">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/linkedin.svg" alt="linkedin" width="51" height="51"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/574138541211254784">
-    <img src="https://raw.githubusercontent.com/CyberID-Ltd/zYxDevs-Profile-Requirements/main/discord_101785.svg" width="50.7" height="50.7" alt="discord"/>
-  </a>&nbsp;&nbsp;
-  <a href="snayt1k3@gmail.com">
-    <img src="https://raw.githubusercontent.com/zYxDevs/zYxDevs/main/assets/email.svg" alt="email" width="50" height="50"/><br>
-  </a>
-</div>
 
