@@ -35,7 +35,14 @@
     <img src="https://img.shields.io/badge/celery%20-%23323330.svg?&style=for-the-badge&logo=celery"/>
     <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb"/>
     <img src="https://img.shields.io/badge/redis%20-%23323330.svg?&style=for-the-badge&logo=redis"/>
-    <br><br><br><br><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     ɪ ɴᴇᴠᴇʀ ꜱᴛᴜᴅɪᴇᴅ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴍᴀᴊᴏʀ, ʙᴜᴛ ɪ ʟɪᴋᴇ ᴄʀᴇᴀᴛɪɴɢ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ ᴛʜɪɴɢꜱ. ᴛʜᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪ ʜᴀᴠᴇ ɪꜱ ɴᴏᴛ ᴍᴜᴄʜ, ʙᴜᴛ ᴀᴛ ʟᴇᴀꜱᴛ ᴇɴᴏᴜɢʜ ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ꜰᴇᴡ ᴛʜɪɴɢꜱ. ɪ ᴊᴜꜱᴛ ʜᴏᴘᴇ ᴍʏ ᴘʀᴏᴊᴇᴄᴛ ᴡɪʟʟ ʙᴇ ᴜꜱᴇꜰᴜʟ ꜰᴏʀ ᴇᴠᴇʀʏᴏɴᴇ. ᴄᴜʀʀᴇɴᴛʟʏ, ɪ ᴀᴍ ʟᴇᴀʀɴɪɴɢ ɢᴏ ᴀɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ɪᴛ.
   </p>
 </div>
