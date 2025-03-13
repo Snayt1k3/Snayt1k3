@@ -9,8 +9,10 @@
 
 <br>
 <div align="left">
-  <li><b>Name: Egor</b></li>
-  <li><b>Hobbies: Tech Stuff, Gaming</b></li>
+  <li><b>🏷 Name: Egor</b></li>
+  <li><b>🎮 Hobbies: Tech, Gaming, Exploring new things</b></li>
+  <li><b>🚀 Passionate about: Backend development, Databases, Automation</b></li>
+  <li><b>💡 Always learning: Go, Distributed Systems, and everything exciting</b></li>
   <br><br><br><br>
 </div>
 
